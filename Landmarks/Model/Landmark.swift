@@ -93,9 +93,9 @@ let blueMountain = Landmark(
 )
 
 let allLandmarks = [
+    cnTower,
     sudburyNickel,
     niagaraFalls,
-    cnTower,
     rom,
     wonderland,
     kawarthas,
