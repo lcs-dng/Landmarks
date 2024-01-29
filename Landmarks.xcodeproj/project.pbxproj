@@ -14,6 +14,7 @@
 		47EAC3B62B6808BC00776F5C /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EAC3B52B6808BC00776F5C /* Landmark.swift */; };
 		47EAC3B82B680CA200776F5C /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EAC3B72B680CA200776F5C /* ListView.swift */; };
 		47EAC3BA2B68133800776F5C /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EAC3B92B68133800776F5C /* ListItemView.swift */; };
+		47EAC3BC2B68158A00776F5C /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EAC3BB2B68158A00776F5C /* GalleryItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		47EAC3B52B6808BC00776F5C /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		47EAC3B72B680CA200776F5C /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		47EAC3B92B68133800776F5C /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
+		47EAC3BB2B68158A00776F5C /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				47EAC3B22B68062B00776F5C /* DetailView.swift */,
 				47EAC3B72B680CA200776F5C /* ListView.swift */,
 				47EAC3B92B68133800776F5C /* ListItemView.swift */,
+				47EAC3BB2B68158A00776F5C /* GalleryItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47EAC3BC2B68158A00776F5C /* GalleryItemView.swift in Sources */,
 				47EAC3BA2B68133800776F5C /* ListItemView.swift in Sources */,
 				47EAC3B82B680CA200776F5C /* ListView.swift in Sources */,
 				47EAC3A42B68054900776F5C /* LandmarksApp.swift in Sources */,
